@@ -1,0 +1,36 @@
+[{
+    "user_name":"bharath",
+    "date":ISODate("2020-10-16"),
+    "attendance":"present",
+    "task_submission":"passed"
+},
+{
+    "user_name":"hariniy",
+    "date":ISODate("2020-10-20"),
+    "attendance":"present",
+    "task_submission":"passed"
+},
+{
+    "user_name":"ronaldo",
+    "date":ISODate("2020-10-29"),
+    "attendance":"present",
+    "task_submission":"passed"
+},
+{
+    "user_name":"nithin",
+    "date":ISODate("2020-11-01"),
+    "attendance":"absent",
+    "task_submission":"faield"
+},
+{
+    "user_name":"nandha",
+    "date":ISODate("2020-11-16"),
+    "attendance":"absent",
+    "task_submission":"failed"
+},
+{
+    "user_name":"virat kholi",
+    "date":ISODate("2020-11-17"),
+    "attendance":"present",
+    "task_submission":"passed"
+}]
